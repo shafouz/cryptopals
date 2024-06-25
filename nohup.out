@@ -1,0 +1,28 @@
+[I 2024-04-09 08:57:43.023 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-04-09 08:57:43.027 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-04-09 08:57:43.031 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-04-09 08:57:43.034 ServerApp] notebook | extension was successfully linked.
+[I 2024-04-09 08:57:43.277 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-04-09 08:57:43.297 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-04-09 08:57:43.299 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-04-09 08:57:43.300 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-04-09 08:57:43.303 LabApp] JupyterLab extension loaded from /home/shafou/.pyenv/versions/3.11.5/lib/python3.11/site-packages/jupyterlab
+[I 2024-04-09 08:57:43.303 LabApp] JupyterLab application directory is /home/shafou/.pyenv/versions/3.11.5/share/jupyter/lab
+[I 2024-04-09 08:57:43.304 LabApp] Extension Manager is 'pypi'.
+[I 2024-04-09 08:57:43.332 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-04-09 08:57:43.334 ServerApp] notebook | extension was successfully loaded.
+[I 2024-04-09 08:57:43.334 ServerApp] Serving notebooks from local directory: /home/shafou/workspace/projects/cryptopals
+[I 2024-04-09 08:57:43.334 ServerApp] Jupyter Server 2.13.0 is running at:
+[I 2024-04-09 08:57:43.334 ServerApp] http://localhost:8888/lab?token=6e8a15336844067bec3d9ce374d2061ec36244c611bfc2c7
+[I 2024-04-09 08:57:43.334 ServerApp]     http://127.0.0.1:8888/lab?token=6e8a15336844067bec3d9ce374d2061ec36244c611bfc2c7
+[I 2024-04-09 08:57:43.334 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-04-09 08:57:43.684 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-04-09 08:57:43.685 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/shafou/.local/share/jupyter/runtime/jpserver-7774-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=6e8a15336844067bec3d9ce374d2061ec36244c611bfc2c7
+        http://127.0.0.1:8888/lab?token=6e8a15336844067bec3d9ce374d2061ec36244c611bfc2c7
+[I 2024-04-09 08:57:44.166 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-04-09 08:59:37.029 ServerApp] Interrupted...
